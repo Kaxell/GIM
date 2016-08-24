@@ -1,0 +1,25 @@
+{
+  "project": {
+    "creationData": {
+      "type": "Import",
+      "projectTypeName": "com.intel.xdk.projecttype.jsapp",
+      "src": "",
+      "projectGuid": "35fcac1c-6c13-48f1-b61a-83e66b45b36a",
+      "lastModifiedDate": 1472027692842,
+      "creationDate": 1472027692814
+    },
+    "gameAssetDirectory": "asset",
+    "gameMetadata": {},
+    "testDirectory": "test",
+    "projectTags": [],
+    "projectFiles": {},
+    "projectDirectories": {},
+    "buildConfigurations": {},
+    "serviceMethods": [],
+    "cordovaPluginsDirectory": "plugins",
+    "cordovaPlugins": [],
+    "sourceDirectory": "",
+    "startFile": "index.html",
+    "projectSettingsVersion": "3.0.0"
+  }
+}
